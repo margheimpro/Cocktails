@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cocktails</string>
+    <string name="cocktail_photo">cocktail photo</string>
+    <string name="ingredienti">ingredienti</string>
+    <string name="procedimento">procedimento</string>
+    <string name="clicca">clicca qui per scoprire un altro cocktail</string>
 </resources>
